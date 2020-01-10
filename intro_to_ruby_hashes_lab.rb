@@ -35,7 +35,9 @@ def monopoly_with_third_tier
         three: 75,
         four: 100
       },
-      names: {}
+      names: {
+        
+      }
 	  }
 	}
 end
