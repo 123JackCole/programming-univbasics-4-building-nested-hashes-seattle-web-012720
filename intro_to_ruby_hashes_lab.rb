@@ -48,7 +48,7 @@ def monopoly_with_third_tier
         shortline: {
           morgage_value: 200
         }
-      }
+      #}
 	  }
 	}
 end
