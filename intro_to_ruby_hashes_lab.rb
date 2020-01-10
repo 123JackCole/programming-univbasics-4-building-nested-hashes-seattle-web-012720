@@ -36,17 +36,17 @@ def monopoly_with_third_tier
         four: 100
       },
       names: {
-        reading_railroad: {
-          :morgage_value => 200
+        :reading_railroad => {
+          morgage_value: 200
         }
-        pennsylvania_railroad {
-          :morgage_value => 200
+        :pennsylvania_railroad => {
+          morgage_value: 200
         }
-        b_and_o_railroad: {
-          :morgage_value => 200
+        :b_and_o_railroad => {
+          morgage_value: 200
         }
-        shortline: {
-          :morgage_value => 200
+        :shortline => {
+          morgage_value: 200
         }
       }
 	  }
